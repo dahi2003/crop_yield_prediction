@@ -1,5 +1,4 @@
 scikit-learn
-streamlit 
- pandas
- numpy 
- pickle
+streamlit
+pandas
+numpy
